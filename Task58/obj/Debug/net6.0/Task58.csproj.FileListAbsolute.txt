@@ -1,0 +1,5 @@
+C:\Users\Moonlight\Desktop\C#\HomeWork\-8.-\Task58\obj\Debug\net6.0\Task58.csproj.AssemblyReference.cache
+C:\Users\Moonlight\Desktop\C#\HomeWork\-8.-\Task58\obj\Debug\net6.0\Task58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moonlight\Desktop\C#\HomeWork\-8.-\Task58\obj\Debug\net6.0\Task58.AssemblyInfoInputs.cache
+C:\Users\Moonlight\Desktop\C#\HomeWork\-8.-\Task58\obj\Debug\net6.0\Task58.AssemblyInfo.cs
+C:\Users\Moonlight\Desktop\C#\HomeWork\-8.-\Task58\obj\Debug\net6.0\Task58.csproj.CoreCompileInputs.cache
